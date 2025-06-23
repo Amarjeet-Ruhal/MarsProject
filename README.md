@@ -50,7 +50,7 @@ Each file name contains metadata in the following format:
 ### Key Strategy
 - I trained two different models one for speech and one for song.
 - This was done as one single model was giving very bad results
-- Its accuracy was around 60%
+- Its accuracy was around 70%
 - After using this strategy I can give best results
 - The uploaded file will automatically can call one of the models
 
